@@ -2,5 +2,7 @@
 
 int main(int argc, char *argv[])
 {
-	return -1;
+	printf("Hello world!");
+
+	return 0;
 }
